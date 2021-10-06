@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-I am a 20 year old developer and open source enthusiast that loves learning.
+I am a 20 year old developer, student and open source enthusiast that loves learning.
 
 Here are a few topics I want to learn more about in the near future:
 
