@@ -3,7 +3,10 @@
 ### Hi there 👋
 
 
-I am interested in: 
+I am a 20 year old developer and open source enthusiast that loves learning.
+
+Here are a few topics I want to learn more about in the near future:
+
 - computer graphics
 - physically based rendering
 - physics(optics and classical mechanics)
@@ -17,3 +20,6 @@ I am interested in:
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=JonasMuehlmann&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMuehlmann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Btw I use arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
