@@ -9,7 +9,7 @@ What I am working on currently:
  
  - Doing an internship
  - Participating in the November Piscine at 42 Heilbronn
- - Continuing development https://github.com/JonasMuehlmann/bntp.go afterwards
+ - Continuing development of https://github.com/JonasMuehlmann/bntp.go afterwards
  - Finishing my studies at the Bib International College (semester 5/6)
 
 Here are a few topics I want to learn more about in the near future:
