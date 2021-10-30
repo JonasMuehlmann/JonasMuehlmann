@@ -20,9 +20,6 @@ Here are a few topics I want to learn more about in the near future:
 - high performance computing/GPGPU
 - game (engine) development
 - computer architecture
-- math
-- learning
-- productivity
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=JonasMuehlmann&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
