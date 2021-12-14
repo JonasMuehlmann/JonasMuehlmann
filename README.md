@@ -8,9 +8,10 @@ I am a 20 year old developer, student and open source enthusiast that loves lear
 What I am working on currently:
  
  - Doing an internship
- - Participating in the November Piscine at 42 Heilbronn
  - Continuing development of https://github.com/JonasMuehlmann/bntp.go afterwards
  - Finishing my studies at the Bib International College (semester 5/6)
+ 
+ - Attend <img src="https://wissensstadt.hn/wp-content/uploads/2020/06/Logo_42-Heilbronn.png" width=150 height=45>
 
 Here are a few topics I want to learn more about in the near future:
 
