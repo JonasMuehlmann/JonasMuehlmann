@@ -12,6 +12,7 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          base: header, activity
           plugin_stars: yes
           plugin_stars_limit: 5
           
