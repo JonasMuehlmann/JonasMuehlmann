@@ -26,6 +26,4 @@ Here are a few topics I want to learn more about in the near future:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMuehlmann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://github.com/JonasMuehlmann/JonasMuehlmann/blob/main/github-metrics.svg)
-
 Btw I use arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
