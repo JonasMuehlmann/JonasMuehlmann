@@ -12,8 +12,8 @@ I am a 20 year old developer, student and open source enthusiast that loves lear
 
 What I am working on currently:
  
- - Doing an internship
- - Continuing development of https://github.com/JonasMuehlmann/bntp.go afterwards
+ - Implementing a programming language at https://github.com/JonasMuehlmann/MVPL
+ - Continuing development of https://github.com/JonasMuehlmann/bntp.go some time
  - Finishing my studies at the Bib International College (semester 5/6)
  
  - Attend <img src="https://wissensstadt.hn/wp-content/uploads/2020/06/Logo_42-Heilbronn.png" width=150 height=45>
