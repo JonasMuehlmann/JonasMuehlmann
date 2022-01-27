@@ -18,6 +18,8 @@ What I am working on currently:
  
  - Attend <img src="https://wissensstadt.hn/wp-content/uploads/2020/06/Logo_42-Heilbronn.png" width=150 height=45>
 
+For a categorized overview of my projects, see https://github.com/JonasMuehlmann?tab=projects.
+
 Here are a few topics I want to learn more about in the near future:
 
 - computer graphics
