@@ -5,10 +5,18 @@
 <!--
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 -->
+
+
+
+> What I cannot create, I do not understand.
+
+<sub>Richard Feynman</sub>
+
+
 ### Hi there 👋
 
 
-I am a 20 year old developer, student and open source enthusiast that loves learning.
+I am a 20 year old developer, student and open source enthusiast that loves (project based) learning.
 
 What I am working on currently:
  
