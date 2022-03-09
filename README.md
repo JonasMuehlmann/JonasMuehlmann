@@ -19,24 +19,22 @@
 I am a 20 year old developer, student and open source enthusiast that loves (project based) learning.
 
 What I am working on currently:
- 
- - Implementing a programming language at https://github.com/JonasMuehlmann/MVPL
- - Continuing development of https://github.com/JonasMuehlmann/bntp.go some time
  - Finishing my studies at the Bib International College (semester 5/6)
- 
- - Attend <img src="https://wissensstadt.hn/wp-content/uploads/2020/06/Logo_42-Heilbronn.png" width=150 height=45>
+ - Afterwards:
+     - Implementing a programming language at https://github.com/JonasMuehlmann/MVPL
+     - Continuing development of https://github.com/JonasMuehlmann/bntp.go
+     - Attend <img src="https://wissensstadt.hn/wp-content/uploads/2020/06/Logo_42-Heilbronn.png" width=150 height=45>
 
 For a categorized overview of my projects, see https://github.com/JonasMuehlmann?tab=projects.
 
 Here are a few topics I want to learn more about in the near future:
 
-- computer graphics
+- computer graphics with OpenGL
 - physically based rendering
 - physics(optics and classical mechanics)
-- high performance computing/GPGPU
+- high performance computing with CUDA, OpenMP, OpenMPI
 - game (engine) development
 - computer architecture
-- systems programming
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=JonasMuehlmann&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
