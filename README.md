@@ -19,11 +19,10 @@
 I am a 20 year old developer, student and open source enthusiast that loves (project based) learning.
 
 What I am working on currently:
- - Finishing my studies at the Bib International College (semester 5/6)
+ - Finishing my studies at the Bib International College (Graduating in june 2022)
  - Afterwards:
      - Implementing a programming language at https://github.com/JonasMuehlmann/MVPL
      - Continuing development of https://github.com/JonasMuehlmann/bntp.go
-     - Attend <img src="https://wissensstadt.hn/wp-content/uploads/2020/06/Logo_42-Heilbronn.png" width=150 height=45>
 
 For a categorized overview of my projects, see https://github.com/JonasMuehlmann?tab=projects.
 
