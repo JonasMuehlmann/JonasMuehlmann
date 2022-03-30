@@ -30,7 +30,7 @@ Here are a few topics I want to learn more about in the near future:
 
 - computer graphics with OpenGL
 - physically based rendering
-- physics(optics and classical mechanics)
+- physics(optics and classical mechanics) and simulation
 - high performance computing with CUDA, OpenMP, OpenMPI
 - game (engine) development
 - computer architecture
