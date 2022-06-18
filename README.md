@@ -16,11 +16,12 @@
 ### Hi there 👋
 
 
-I am a 20 year old developer, student and open source enthusiast that loves (project based) learning.
+I am a 21 year old developer, student and open source enthusiast that loves (project based) learning.
 
 What I am working on currently:
  - Finishing my studies at the Bib International College (Graduating in june 2022)
  - Afterwards:
+     - Prepare for university
      - Implementing a programming language at https://github.com/JonasMuehlmann/MVPL
      - Continuing development of https://github.com/JonasMuehlmann/bntp.go
 
@@ -28,7 +29,7 @@ For a categorized overview of my projects, see https://github.com/JonasMuehlmann
 
 Here are a few topics I want to learn more about in the near future:
 
-- computer graphics with OpenGL
+- computer graphics
 - physically based rendering
 - physics(optics and classical mechanics) and simulation
 - high performance computing with CUDA, OpenMP, OpenMPI
