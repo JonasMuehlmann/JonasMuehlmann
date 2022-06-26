@@ -20,7 +20,7 @@ I am a 21 year old developer, open source enthusiast that loves (project based) 
 
 - Prepare for university
 - Implementing a programming language at https://github.com/JonasMuehlmann/MVPL
-- Continuing development of https://github.com/JonasMuehlmann/bntp.go
+- Build my personal all-in-one productivity system around https://github.com/JonasMuehlmann/bntp.go
 
 For a categorized overview of my projects, see https://github.com/JonasMuehlmann?tab=projects.
 
