@@ -16,14 +16,11 @@
 ### Hi there 👋
 
 
-I am a 21 year old developer, student and open source enthusiast that loves (project based) learning.
+I am a 21 year old developer, open source enthusiast that loves (project based) learning.
 
-What I am working on currently:
- - Finishing my studies at the Bib International College (Graduating in june 2022)
- - Afterwards:
-     - Prepare for university
-     - Implementing a programming language at https://github.com/JonasMuehlmann/MVPL
-     - Continuing development of https://github.com/JonasMuehlmann/bntp.go
+- Prepare for university
+- Implementing a programming language at https://github.com/JonasMuehlmann/MVPL
+- Continuing development of https://github.com/JonasMuehlmann/bntp.go
 
 For a categorized overview of my projects, see https://github.com/JonasMuehlmann?tab=projects.
 
