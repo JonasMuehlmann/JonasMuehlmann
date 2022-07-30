@@ -12,6 +12,9 @@
 
 <sub>Richard Feynman</sub>
 
+> Make it work, makeit right, make it fast
+
+<sub>Kent Beck</sub>
 
 ### Hi there 👋
 
