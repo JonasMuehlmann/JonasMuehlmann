@@ -12,7 +12,7 @@
 
 <sub>Richard Feynman</sub>
 
-> Make it work, makeit right, make it fast
+> Make it work, make it right, make it fast.
 
 <sub>Kent Beck</sub>
 
