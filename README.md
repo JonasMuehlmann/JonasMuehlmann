@@ -26,6 +26,7 @@ I am a 21 year old developer, open source enthusiast that loves (project based) 
 - Build my personal all-in-one productivity system around https://github.com/JonasMuehlmann/bntp.go
 
 For a categorized overview of my projects, see the classic projects page https://github.com/JonasMuehlmann?tab=projects&type=classic.
+
 Development projects are located at https://github.com/JonasMuehlmann?tab=projects&type=new.
 
 Here are a few topics I want to learn more about in the near future:
