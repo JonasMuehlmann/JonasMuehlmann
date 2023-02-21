@@ -19,7 +19,7 @@
 ### Hi there 👋
 
 
-I am a 21 year old developer, open source enthusiast that loves (project based) learning.
+I am a 22 year old developer, open source enthusiast that loves (project based) learning.
 
 For a categorized overview of my projects, see the classic projects page https://github.com/JonasMuehlmann?tab=projects&type=classic.
 
