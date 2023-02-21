@@ -27,6 +27,7 @@ Development projects are located at https://github.com/JonasMuehlmann?tab=projec
 
 Here are a few topics I want to learn more about in the near future:
 
+- Compiler development
 - computer graphics with vulkan
 - physically based rendering
 - physics(optics and classical mechanics) and simulation
