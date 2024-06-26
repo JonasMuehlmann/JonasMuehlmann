@@ -13,10 +13,11 @@
 For a categorized overview of my projects, see the classic projects page https://github.com/JonasMuehlmann?tab=projects&type=classic.
 
 My favorite topics are:
-- Compiler development
-- systems programming
+- Systems programming
 - Performance engineering
+- Compiler development
 - Software design and correctness
+- Theoretical computer science and math
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=JonasMuehlmann&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
