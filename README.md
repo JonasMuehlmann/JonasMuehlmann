@@ -6,35 +6,17 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 -->
 
-
-
 > What I cannot create, I do not understand.
 
 <sub>Richard Feynman</sub>
 
-> Make it work, make it right, make it fast.
-
-<sub>Kent Beck</sub>
-
-### Hi there 👋
-
-
-I am a 23 year old developer, open source enthusiast that loves (project based) learning.
-
 For a categorized overview of my projects, see the classic projects page https://github.com/JonasMuehlmann?tab=projects&type=classic.
 
-Development projects are located at https://github.com/JonasMuehlmann?tab=projects&type=new.
-
-Here are a few topics I want to learn more about in the near future:
-
+My favorite topics are:
 - Compiler development
-- computer graphics with vulkan
-- physically based rendering
-- physics(optics and classical mechanics) and simulation
-- high performance computing with CUDA, OpenMP, OpenMPI
-- game (engine) development
-- computer architecture
-- performance engineering
+- systems programming
+- Performance engineering
+- Software design and correctness
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=JonasMuehlmann&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
