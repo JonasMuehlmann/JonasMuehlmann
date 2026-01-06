@@ -2,25 +2,8 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<!--
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
--->
 
 > What I cannot create, I do not understand.
 
 <sub>Richard Feynman</sub>
-
-For a categorized overview of my projects, see the classic projects page https://github.com/JonasMuehlmann?tab=projects&type=classic.
-
-My favorite topics are:
-- Systems programming
-- Performance engineering
-- Compiler development
-- Software design and correctness
-- Theoretical computer science and math
-
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=JonasMuehlmann&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMuehlmann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Btw I use arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+I am interested in low-level development, think implementation of computer architectures or operating systems, as well as formal methods and performance engineering.
